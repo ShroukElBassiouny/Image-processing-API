@@ -2,7 +2,7 @@
 Image Resizing API is a web application for resizing image using node.js
 
 ## Tools 
-Image Resizing API uses a number of tools to work properly:
+Image Resizing API uses several tools to work properly:
 - Simple Node API for resizing images using Sharp
 - TypeScript
 - Express 
