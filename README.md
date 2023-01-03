@@ -12,23 +12,19 @@ Image Resizing API uses a number of tools to work properly:
 ## API for image proccesing
 ```sh
 -/images?imagename=pexels&width=400&height=400
-```sh
-
+```
 ## to start server
 ```sh
 npm run start
 ```
-
 ## to start test
 ```sh
 npm run test
 ```
-
 ## Prettier 
 ```sh
 npm run Prettier
 ```
-
 ## ESLint 
 ```sh
 npm run lint
